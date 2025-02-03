@@ -12,3 +12,8 @@ npm install
 
 Run Website:
 npm run dev
+
+To Add New Commit:
+git add .
+git commit -m "comments on the commit"
+git push

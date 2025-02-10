@@ -1,4 +1,4 @@
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -37,6 +37,29 @@
   padding: 2em;
 }
 
-.read-the-docs {
+.read-the-docs {s
   color: #888;
+} */
+
+/* .chess {
+  background-color: greenyellow;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+} */
+
+.competition-filter-button {
+  height: 40px;
+  width: 110px;
+  display: flex;
+  background-color: rgb(54, 53, 53);
+  color: white;
+  text-align: left;
+  align-items: center; /* Ensures vertical alignment */
+  padding: 5px 10px; /* Adds spacing */
+  cursor: pointer;
+  border: 1px solid gray;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+  padding: 5px;
 }
